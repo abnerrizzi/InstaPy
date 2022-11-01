@@ -75,4 +75,3 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 ---
 
 > **Disclaimer**<a name="disclaimer" />: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf. I'm also not responsible if your accounts get banned due to the extensive use of this tool.
-
