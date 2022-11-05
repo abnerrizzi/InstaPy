@@ -368,7 +368,7 @@ class InstaPy:
             file_handler.setLevel(logging.DEBUG)
             extra = {"username": self.username}
             logger_formatter = logging.Formatter(
-                "%(levelname)s [%(asctime)s] [%(username)s]  %(message)s",
+                "[%(asctime)s] [%(username)s] [%(levelname)s]: %(message)s",
                 datefmt="%Y-%m-%d %H:%M:%S",
             )
             file_handler.setFormatter(logger_formatter)
